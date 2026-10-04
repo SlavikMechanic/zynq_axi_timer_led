@@ -1,0 +1,4 @@
+C:/Vitis_Workspace/zynq_axi_timer_platform/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+C:/Vitis_Workspace/zynq_axi_timer_platform/zynq_fsbl/build/CMakeFiles/print_build_info.dir
+C:/Vitis_Workspace/zynq_axi_timer_platform/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+C:/Vitis_Workspace/zynq_axi_timer_platform/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir

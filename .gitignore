@@ -1,0 +1,19 @@
+# Vivado
+*.jou
+*.log
+*.str
+*.dmp
+
+# Vivado generated/cache
+.cache/
+.hw/
+.ip_user_files/
+.gen/
+
+# Vitis generated/cache
+.vscode/
+.metadata/
+.Xil/
+
+# Build output
+*.tmp
